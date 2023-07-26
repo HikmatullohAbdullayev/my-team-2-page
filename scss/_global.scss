@@ -39,5 +39,13 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-color: #014E56;
+    font-family: Livvic;
+}
+.container{
+    max-width: 1150px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
 
 }
